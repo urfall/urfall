@@ -7,4 +7,4 @@ If you want to contact me, please email me. <br/><br/>
 ### 📁 Record
 - [**`코딩테스트`**]()
 - [**`SQL`**]()
-- [**`코딩테스트`**]()
+- [**`SKT FLY AI`**]()
