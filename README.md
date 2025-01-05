@@ -5,6 +5,6 @@ If you want to contact me, please email me. <br/><br/>
 
 
 ## 📁 Record
-- [**`코딩테스트`**]()
+- [**`Coding Test`**]()
 - [**`SQL`**](https://github.com/urfall/SQL)
 - [**`SKT FLY AI`**](https://github.com/urfall/FLY_AI)
